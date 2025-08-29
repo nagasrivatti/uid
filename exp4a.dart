@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-
 void main() {
   runApp(NavigationDemoApp());
 }
-
 class NavigationDemoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
